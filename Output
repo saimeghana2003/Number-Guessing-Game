@@ -1,0 +1,14 @@
+Hi! Welcome to the Number Guessing Game.
+You have 7 chances to guess the number. Let's start!
+Enter the Lower Bound: 1
+Enter the Upper Bound: 10
+
+You have 7 chances to guess the number between 1 and 10. Let's start!
+Enter your guess: 6
+Too low! Try a higher number.
+Enter your guess: 3
+Too low! Try a higher number.
+Enter your guess: 9
+Too low! Try a higher number.
+Enter your guess: 10
+Correct! The number is 10. You guessed it in 4 attempts.
